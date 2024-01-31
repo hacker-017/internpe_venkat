@@ -69,7 +69,7 @@ print("         | 7 | 8 | 9 |")
 print("         |___|___|___|")
 print("")
 print("Game Loading.....")
-time.sleep(40)
+time.sleep(5)
 
 while Game == Running:
     os.system('cls')
